@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentNavStarter</string>
+    <string name="title_home">Home</string>
+    <string name="title_news">News</string>
+    <string name="title_weather">Weather</string>
+    <string name="title_news_list">News List</string>
+
+    <string name="button_like">Like!</string>
+    <string name="button_interesting">Interesting</string>
+    <string name="button_okay">Okay</string>
+</resources>
